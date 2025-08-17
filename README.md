@@ -2,17 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ana Julia
+Matricula: 897434
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspeção](<images/Inspec Ferramenta Dev.png>)
+
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Projeto no Replit](<images/site replit.png>)
 
 ## Orientações sobre Linguagem MarkDown
 
